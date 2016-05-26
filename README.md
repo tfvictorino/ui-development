@@ -1,6 +1,9 @@
 ## UI Development
 
-###Titles
+Front-end development – and product development in general – has grown a lot in complexity lately. Which is awesome!
+With that, the need for collaboration and specialization emerges. This repo collects information on the subject of UI Development, a front-end specialization focused on the interface needs: semantic and accessible HTML, scalable and maintainable CSS components and JavaScript interactions.
+
+###Role titles
 - UI Developer
 - Front-end Designer
 - Front-end Architect
