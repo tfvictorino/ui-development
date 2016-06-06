@@ -12,6 +12,7 @@ With that, the need for collaboration and specialization emerges. This repo coll
 ###References
 - http://bradfrost.com/blog/post/frontend-design
 - http://drewbarontini.com/articles/the-front-end-spectrum/
+- [pt-br] https://diessi.ca/blog/a-fantastica-diversidade-do-front-end/
 - http://www.lynda.com/Web-Web-Foundations-tutorials/Front-end-design/158666/158685-4.html
 - http://snook.ca/archives/opinion/design-engineering
 - http://stackoverflow.com/questions/9700286/whats-the-difference-between-a-frontend-vs-ui-developer
